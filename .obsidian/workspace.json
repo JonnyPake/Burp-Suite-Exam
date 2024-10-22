@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "dcf1ea9de5edd064",
+    "type": "split",
+    "children": [
+      {
+        "id": "28c3cdb17cfd7830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db988ccae32437fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP Request Smuggling ✅/HTTP Request Smuggling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP Request Smuggling"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6418d8370ba1bc7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a688a1e394281503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139f476375acb3ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c63651c74162893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37269dad83d4de57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5026054382324
+  },
+  "right": {
+    "id": "fec3a4ea176c31b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab998c7a8936f95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a786b276deccd90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OS Command Injection/OS Command Injection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OS Command Injection"
+            }
+          },
+          {
+            "id": "7e98f448ef24dfc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OS Command Injection/OS Command Injection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OS Command Injection"
+            }
+          },
+          {
+            "id": "5c2dad2452cbd296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9dbacb197c9a35d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTTP Request Smuggling ✅/HTTP Request Smuggling.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HTTP Request Smuggling"
+            }
+          },
+          {
+            "id": "1a2baa4c45c9df3c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7bb94b4dc5c2ff43",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "db988ccae32437fc",
+  "lastOpenFiles": [
+    "OS Command Injection/OS Command Injection.md",
+    "00-Attachments/Collaborator.png",
+    "00-Attachments/Output TXT.png",
+    "00-Attachments/Ping Test.png",
+    "00-Attachments/Test Sleep.png",
+    "00-Attachments/Pipe Whoami.png",
+    "File Uploads ✅/File Uploads.md",
+    "00-Attachments/Payload Exec.png",
+    "00-Attachments/Polyglot.png",
+    "00-Attachments/Comment PHP.png",
+    "00-Attachments/Comment Pwned.png",
+    "00-Attachments/Exiftool.png",
+    "Path Traversal/Path Traversal.md",
+    "Information Disclosure ✅/Information Disclosure.md",
+    "wget.exe",
+    "Prototype Pollution ✅/Prototype Pollution.md",
+    "HTTP Request Smuggling ✅/HTTP Request Smuggling.md",
+    "Clickjacking ✅/Clickjacking.md",
+    "Web Cache Poisoning/Web Cache Poisoning.md",
+    "DOM-Based Vulnerabilities ✅/DOM-Based Vulnerabilities.md",
+    "XML External Entities (XXE) ✅/XML External Entities (XXE).md",
+    "WebSockets ✅/WebSockets.md",
+    "Web LLM Attacks ✅/Web LLM Attacks.md",
+    "Web Cache Deception ✅/Web Cache Deception.md",
+    "Server-Side Template Injection (SSTI) ✅/Server-Side Template Injection (SSTI).md",
+    "Server-Side Request Forgery (SSRF) ✅/Server-Side Request Forgery (SSRF).md",
+    "Race Conditions ✅/Race Conditions.md",
+    "OAuth ✅/OAuth.md",
+    "NoSQL Injections ✅/NoSQL Injections.md",
+    "JWT ✅/JWT.md",
+    "Insecure Deserialization ✅/Insecure Deserialization.md",
+    "HTTP Host Header Attacks ✅/HTTP Host Header Attacks.md",
+    "GraphQL API Vulnerabilities ✅/GraphQL API Vulnerabilities.md",
+    "Cross-Origin Resource Sharing (CORS) ✅/Cross-Origin Resource Sharing (CORS).md",
+    "API Testing ✅/API Testing.md",
+    "00-Attachments/XXE Thumbnail.jpeg.crdownload",
+    "00-Attachments/XXE Thumbnail.jpg.crdownload",
+    "Access Control Vulnerabilities/Access Control Vulnerabilities.md",
+    "00-Attachments/Pass Reset Collision.png.crdownload",
+    "00-Attachments/JWT attacks.pdf",
+    "00-Attachments/JWT attacks.pdf.crdownload",
+    "Web Cache Deception ✅",
+    "Web LLM Attacks ✅",
+    "00-Attachments/API Testing.png.~tmp",
+    "API Testing ✅",
+    "Untitled.canvas"
+  ]
+}
